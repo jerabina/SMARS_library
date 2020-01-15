@@ -1,6 +1,6 @@
 # SMARS robot library
 
-This library is used to control the [SMARS robot](https://github.com/jerabina/SMARS)
+This Andruido library is used to control the [SMARS robot](https://github.com/jerabina/SMARS)
 
 Method:
 - **motorsBridge(int mAen, int mAdir, int mBen, int mBdir)** - direct control of motor bridge pins
