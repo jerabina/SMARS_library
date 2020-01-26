@@ -18,5 +18,3 @@ Method:
 - **beepOff()** - turns off the buzzer
 - **beepSuccess()** - pseudo melody well buzzer
 - **beepDanger()** - pseudo tunes wrong on buzzer
-
-[SMARS robot github releases](https://github.com/jerabina/SMARS_library/releases)
